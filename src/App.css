@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: antiquewhite;
+  border: 10px solid brown;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
